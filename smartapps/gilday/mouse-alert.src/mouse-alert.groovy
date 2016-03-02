@@ -19,9 +19,9 @@ definition(
     author: "Johnathan Gilday",
     description: "Sends an alert when motion is detected in a pantry or cabinet whose doors are closed",
     category: "Safety & Security",
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
+    iconUrl: "https://drive.google.com/uc?export=download&id=0B9eH1qcLQxi-bXhZa0VpVDNQRzA",
+    iconX2Url: "https://drive.google.com/uc?export=download&id=0B9eH1qcLQxi-bmVRNlhwREt2a2c",
+    iconX3Url: "https://drive.google.com/uc?export=download&id=0B9eH1qcLQxi-bmVRNlhwREt2a2c")
 
 
 preferences {
